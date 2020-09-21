@@ -1,0 +1,143 @@
+.navbar-expand-lg{
+    padding-bottom:0;
+}
+.nav-link{
+    color:gray;
+}
+.navbar-brand img{
+    height:50px;
+}
+.nav-item{
+    padding:0 10px;
+}
+.carousel-item {
+    padding: 25px 10px;
+}
+.banner{
+    
+    background-image:url("images/bg-1.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:90px 320px;
+    background-attachment:scroll;
+    
+}
+.buy-now-button{
+    background-color:#000;
+    color:#fff;
+    padding:9px 28px;
+    border:none;
+    border-radius:10px;
+}
+
+#paragraph{
+    padding-right:40px;
+    color:gray;
+}
+
+.bi{
+    text-align:center;
+}
+.banner-section {
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size:70px 120px;
+    margin-top: -25px;
+}
+.carousel-indicators li{
+    background-color:orange;
+    width: 15px;
+    height: 5px;
+    border: none;
+    border-radius: 50px;
+}
+.button{
+    background-color:#fff;
+    border-top:none;
+}
+.card{
+    text-align: center;
+    border:none;
+    border-radius:10px;
+    box-shadow:0px 0px 5px #dcd1d1d8;
+}
+.card img {
+    width: 160px;
+    height: 170px;
+    margin: auto;
+    margin-top: 40px;
+}
+.card h5{
+    font-size: 20px;
+    font-weight: 501;
+}
+.white{
+    color:#fff;
+}
+.card p{
+    color:gray;
+    margin-bottom:1.5rem;
+}
+.card-text{
+    color: gray;
+    width: 90%;
+}
+#orange{
+    color:orange;
+}
+.smartphone-section{
+    margin-top:30px;
+}
+.bottom{
+    padding-bottom:30px;
+}
+.Laptop-section{
+    margin-top:30px;
+}
+.catagories-section{
+    text-align:center;
+    padding:100px 0;
+}
+ span{
+    width: 30px auto;
+    display: inline-block;
+    width: 90px;
+    height: 6px;
+    border: none;
+    border-radius: 10px;
+    background-image:linear-gradient(to right,rgb(255, 219, 153) 0%,rgb(242, 116, 4) 100%);
+}
+.cat1{ border-radius:0 20px 0 20px;
+    margin-left:-90px;
+}
+.cat2{ border-radius:20px 0 20px 0;
+    margin-top:30px;
+    
+}
+.cat3{
+    border-radius:20px 0 20px 0;
+    margin-top:35px;
+   
+}
+.cat1 ,.cat2, .cat3{
+    text-align:center;
+    border:10px;
+    box-shadow:5px  5px 10px rgba(128, 128, 128, 0.651);
+    width: 220px;
+    height: 240px;
+    padding: 30px;
+}
+.flower{
+    width:600px;
+    height:450px;
+}
+.head5 {
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.Laptop-section img {
+    width: 290px;
+    height: 250px;
+}
